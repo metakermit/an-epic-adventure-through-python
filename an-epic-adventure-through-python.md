@@ -4,5 +4,5 @@ The woodland hermit
 ===================
 
 Once there was a forest. An ancient, overgrown, full of shadows with 
-occasional beams of lights piercing through tall treetops (mostly oak trees) 
+occasional beams of lights piercing through the tall tree canopy (mostly oaks) 
 sort of forest.
