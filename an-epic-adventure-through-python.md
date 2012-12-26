@@ -21,16 +21,18 @@ far was the fact that in the next line ink started appearing by itself!
 
  > The land is in dire peril.
 
-This is where you could really see that there is something special 
-about this character. What makes him so special (aside his somewhat 
-unorthodox appearance) is his mastery of *Python*. You can think of Python 
-as spellcraft -- it enables you to conjure up things that didn't exist 
+This is where you could really see that there was something special 
+about this fellow. What made him so special (aside his somewhat 
+unorthodox appearance) was his mastery of *Python*. You can think of Python 
+as sorcery -- it enables you to conjure up things that didn't exist 
 before. X told it to print his sinister insinuation and Python (incarnated 
 in X's parchment and ink) did exactly that. An instruction and the effect. That is the essence of Python.
 
-But why didn't X simply jot his own message on his own in the first place? 
-Yes, in this case he could have done that. But since the land is indeed in 
-**real peril** and X wants to make you fully comprehend it he writes down
+But why didn't X simply jot his own message in the first place without 
+all the `print('')` gibberish? Yes, in this case it would have been 
+shorter to do just that. But since the land is indeed in 
+**dire peril** and X wanted you to fully comprehend the direness of the 
+situation, he wrote down
 
     print('The land is in dire peril. ' * 5)
 
@@ -38,7 +40,7 @@ and the parchment was swiftly filled with
 
  > The land is in dire peril. The land is in dire peril. The land is in dire peril. The land is in dire peril. The land is in dire peril. 
 
-That saved X some writing, hasn't it?
+That saved X some writing, didn't it?
 
 
 -------------------------------------------------------------------------------
